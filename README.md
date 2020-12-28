@@ -11,6 +11,6 @@ Once node is installed, Open terminal, and navigate to the directory where the a
 
 Then enter 'npm start' to start the server 
 
-To test queries, local host can be used.
+To test queries, POSTMAN is ideal to query the database, however the local host can be used.
 
 For example, http://localhost:2000/sensors retrieves all sensors in the database.
