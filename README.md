@@ -1,7 +1,10 @@
 # Wireless-Sensor-Monitoring
+This project is my thesis work completed in the final year of university. 
 
-**BELOW IS THE PRESENTATION WHICH SUMMARISES THE WHOLE PROJECT**:
-https://github.com/sakibch/Wireless-Sensor-Monitoring/blob/master/Scalable%20REST%20API%20for%20a%20Wireless%20Sensor%20Network.pdf
+**I have buit a REST API which eases the interaction between wireless sensors in a household using Node.js and MongoDB.**
+
+**PRESENTATION**:
+https://github.com/sakibch/REST_API_forA_Wireless_Sensor_Network/blob/master/REST_API_Presentatation.pdf
 
 List of required dependencies to run application:
 
