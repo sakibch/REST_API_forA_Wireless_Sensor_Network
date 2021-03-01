@@ -1,7 +1,8 @@
 # Wireless-Sensor-Monitoring
-This repository is for the dissertation submission I completed in the third year of university studying Computer Science and Business Management. 
+This repository is for the dissertation I completed during university studying Computer Science and Business Management. 
 
-**I have built a REST API which eases the interaction between wireless sensors in a household using Node.js and MongoDB.**
+**I built a REST API using Node.js which facilitates the interaction between wireless sensors in a network.I also improved API performance by 25% by hosting database on MongoDB compared to SQL servers.
+**
 
 **PRESENTATION**:
 https://github.com/sakibch/REST_API_forA_Wireless_Sensor_Network/blob/master/REST_API_Presentatation.pdf
