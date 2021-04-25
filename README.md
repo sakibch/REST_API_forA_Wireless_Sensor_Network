@@ -1,7 +1,7 @@
 # REST API for Wireless Sensor Network
 This repository is for the dissertation I completed during university studying Computer Science and Business Management. 
 
-**I built a REST API using Node.js which facilitates the interaction between wireless sensors in a network. I also reduced API latency by 35% by hosting database on MongoDB compared to SQL servers.**
+**I built a REST API using Node.js which facilitates the interaction between wireless sensors in a network. I also reduced API latency by 30% by hosting database on MongoDB compared to SQL servers.**
 
 **PRESENTATION**:
 https://github.com/sakibch/REST_API_forA_Wireless_Sensor_Network/blob/master/Presentation_FinalYearProject_SakibChughtai.pdf
